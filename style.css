@@ -12,6 +12,7 @@ div{
     margin: 1.6rem;
     height: 20rem;
     background: yellow;
+    
 }
 
 div2{
@@ -27,6 +28,7 @@ div3{
     margin: 1.6rem;
     height: 30rem;
     background: cyan;
+    
     
 }
 
@@ -51,6 +53,7 @@ div6{
     height: 30rem;
     background: darkcyan; 
     
+    
 }
     
     
@@ -73,12 +76,14 @@ img{
 header{
     height: 8rem;
     flex-direction: row;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
     
 }
 
 h1{
     justify-content: space-evenly;
+    
     
 }
 
